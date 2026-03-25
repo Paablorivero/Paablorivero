@@ -31,9 +31,9 @@ Sigo aprendiendo dia a dia y me esfuerzo en aprender siempre algo nuevo.
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Paablorivero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paablorivero&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
