@@ -48,6 +48,6 @@ Sigo aprendiendo dia a dia y me esfuerzo en aprender siempre algo nuevo.
 
 ### 📫 Conecta conmigo
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](TU_ENLACE_AL_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://pablorivero.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.rivero.gutierrez@gmail.com)
